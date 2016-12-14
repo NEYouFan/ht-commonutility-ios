@@ -1,15 +1,17 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9C943D9C7D7D4548AB2FA00BC891594B17ECB23A",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B677710D64104CCB4EE02632FC6B22589DCF0A00",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "69FAA05B3A77C46FE5572304313AC3A4D877368C" : 0,
+    "B677710D64104CCB4EE02632FC6B22589DCF0A00" : 9223372036854775807,
     "9C943D9C7D7D4548AB2FA00BC891594B17ECB23A" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D03CDFEF-35C0-4488-84DC-2631EEFD20FD",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "69FAA05B3A77C46FE5572304313AC3A4D877368C" : "",
+    "B677710D64104CCB4EE02632FC6B22589DCF0A00" : "HTCommonUtility-gitHub\/",
     "9C943D9C7D7D4548AB2FA00BC891594B17ECB23A" : "HTCommonUtils\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "HTCommonUtility",
@@ -25,6 +27,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.hz.netease.com\/git\/mobile\/HTCommonUtils.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9C943D9C7D7D4548AB2FA00BC891594B17ECB23A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NEYouFan\/HTCommonUtility.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B677710D64104CCB4EE02632FC6B22589DCF0A00"
     }
   ]
 }

@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
  
  
   s.name         = "HTCommonUtility"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "公共工具类库."
  
   s.description  = <<-DESC
@@ -38,6 +38,6 @@ Pod::Spec.new do |s|
   s.public_header_files = "HTCommonUtility/HTCommonUtility/*.h", 
   "HTCommonUtility/HTCommonUtility/HTSafeObserver/*.h"
   
-  s.dependency "CocoaLumberjack", '2.0.1'
+  s.dependency "CocoaLumberjack"
  
 end
