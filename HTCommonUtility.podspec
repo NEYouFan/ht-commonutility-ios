@@ -18,13 +18,13 @@ Pod::Spec.new do |s|
                    公共工具类库
                    DESC
  
-  s.homepage     = "https://g.hz.netease.com/HeartTouchOpen/HTCommonUtils"
+  s.homepage     = "https://github.com/NEYouFan/HTCommonUtility"
  
   s.license      = "MIT"
  
   s.author       = { "hzwangliping" => "hzwangliping@corp.netease.com" }
  
-  s.source       = { :path => '.' }
+  s.source       = { :git => "https://github.com/NEYouFan/HTCommonUtility.git", :tag => s.version.to_s }
 
   s.platform     = :ios, "6.0"
  
