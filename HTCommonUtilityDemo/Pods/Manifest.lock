@@ -1,0 +1,24 @@
+PODS:
+  - CocoaLumberjack (2.0.1):
+    - CocoaLumberjack/Default (= 2.0.1)
+    - CocoaLumberjack/Extensions (= 2.0.1)
+  - CocoaLumberjack/Core (2.0.1)
+  - CocoaLumberjack/Default (2.0.1):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.0.1):
+    - CocoaLumberjack/Default
+  - HTCommonUtility (0.0.1):
+    - CocoaLumberjack (= 2.0.1)
+
+DEPENDENCIES:
+  - HTCommonUtility (from `../`)
+
+EXTERNAL SOURCES:
+  HTCommonUtility:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 019d1361244274a6138c788c6cb80baabc13fb8f
+  HTCommonUtility: 53a189448327912301b9e5b1c8a36b32a58fb045
+
+COCOAPODS: 0.38.2

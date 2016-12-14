@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9C943D9C7D7D4548AB2FA00BC891594B17ECB23A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "69FAA05B3A77C46FE5572304313AC3A4D877368C" : 0,
+    "9C943D9C7D7D4548AB2FA00BC891594B17ECB23A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0DF20F9E-FD53-4AEC-8F26-D51D95564365",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "69FAA05B3A77C46FE5572304313AC3A4D877368C" : "",
+    "9C943D9C7D7D4548AB2FA00BC891594B17ECB23A" : "HTCommonUtils"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HTCommonUtilityDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HTCommonUtilityDemo\/HTCommonUtilityDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HaloCXQ\/ImagesStore.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "69FAA05B3A77C46FE5572304313AC3A4D877368C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.hz.netease.com\/git\/mobile\/HTCommonUtils.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9C943D9C7D7D4548AB2FA00BC891594B17ECB23A"
+    }
+  ]
+}
