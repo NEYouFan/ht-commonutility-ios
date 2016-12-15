@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
  
   s.license      = "MIT"
  
-  s.author       = { "netease" }
+  s.author       = { "netease" => "taozeyu890217@126.com"}
  
   s.source       = { :git => "https://github.com/NEYouFan/HTCommonUtility.git", :tag => s.version.to_s }
 
