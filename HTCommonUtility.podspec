@@ -11,20 +11,20 @@ Pod::Spec.new do |s|
  
  
   s.name         = "HTCommonUtility"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "公共工具类库."
  
   s.description  = <<-DESC
                    公共工具类库
                    DESC
  
-  s.homepage     = "https://github.com/NEYouFan/HTCommonUtility"
+  s.homepage     = "https://github.com/NEYouFan/ht-commonutility-ios"
  
   s.license      = "MIT"
  
   s.author       = { "netease" => "taozeyu890217@126.com"}
  
-  s.source       = { :git => "https://github.com/NEYouFan/HTCommonUtility.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/NEYouFan/ht-commonutility-ios.git", :tag => s.version.to_s }
 
   s.platform     = :ios, "6.0"
  
