@@ -1,2 +1,7 @@
 platform :ios, '6.0'
-pod 'HTCommonUtility', :path => '../'
+
+target :HTCommonUtilityDemo do
+
+  pod 'HTCommonUtility', :path => '../'
+
+end

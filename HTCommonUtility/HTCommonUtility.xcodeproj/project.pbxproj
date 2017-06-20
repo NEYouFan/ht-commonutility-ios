@@ -51,6 +51,12 @@
 		2257A69E1C609BA8002A3EF3 /* HTLogFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTLogFormatter.m; sourceTree = "<group>"; };
 		6871583EA7E22E66D7FAE26B /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		7648506BF9DF1EDBE5FC9F32 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF9ECEE11EF8CEFE00B79254 /* UIView+Frame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
+		BF9ECEE21EF8CEFE00B79254 /* HTRuntimeHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HTRuntimeHelper.h; sourceTree = "<group>"; };
+		BF9ECEE31EF8CEFE00B79254 /* HTRuntimeHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HTRuntimeHelper.m; sourceTree = "<group>"; };
+		BF9ECEE41EF8CEFE00B79254 /* UIImage+Crop.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+Crop.h"; sourceTree = "<group>"; };
+		BF9ECEE51EF8CEFE00B79254 /* UIView+Frame.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+Frame.m"; sourceTree = "<group>"; };
+		BF9ECEE61EF8CEFE00B79254 /* UIImage+Crop.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Crop.m"; sourceTree = "<group>"; };
 		D28DB8971DDAB1520018A774 /* UINavigationBar+HT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationBar+HT.h"; sourceTree = "<group>"; };
 		D28DB8981DDAB1520018A774 /* UINavigationBar+HT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationBar+HT.m"; sourceTree = "<group>"; };
 		E63716901B969A19007375D4 /* libPods-CocoaLumberjack.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-CocoaLumberjack.a"; path = "Pods/../build/Debug-iphoneos/libPods-CocoaLumberjack.a"; sourceTree = "<group>"; };
@@ -135,6 +141,12 @@
 		E64D80731B95A65D008D2367 /* HTCommonUtility */ = {
 			isa = PBXGroup;
 			children = (
+				BF9ECEE21EF8CEFE00B79254 /* HTRuntimeHelper.h */,
+				BF9ECEE31EF8CEFE00B79254 /* HTRuntimeHelper.m */,
+				BF9ECEE41EF8CEFE00B79254 /* UIImage+Crop.h */,
+				BF9ECEE61EF8CEFE00B79254 /* UIImage+Crop.m */,
+				BF9ECEE11EF8CEFE00B79254 /* UIView+Frame.h */,
+				BF9ECEE51EF8CEFE00B79254 /* UIView+Frame.m */,
 				E64A41E61BA0243A00707112 /* ColorUtils.h */,
 				E64A41E71BA0243A00707112 /* ColorUtils.m */,
 				E64A41E81BA0243A00707112 /* NSDate+Utilities.h */,

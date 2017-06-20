@@ -1,25 +1,26 @@
 {
   "name": "HTCommonUtility",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "summary": "公共工具类库.",
   "description": "公共工具类库",
-  "homepage": "https://git.hz.netease.com/mobile/HTCommonUtils",
+  "homepage": "https://github.com/NEYouFan/ht-commonutility-ios",
   "license": "MIT",
   "authors": {
-    "hzwangliping": "hzwangliping@corp.netease.com"
+    "netease": "taozeyu890217@126.com"
+  },
+  "source": {
+    "git": "https://github.com/NEYouFan/ht-commonutility-ios.git",
+    "tag": "0.0.4"
   },
   "platforms": {
     "ios": "6.0"
   },
-  "source_files": [
-    "HTCommonUtility/HTCommonUtility/*.{h,m}",
-    "HTCommonUtility/HTCommonUtility/HTSafeObserver/*.{h,m}"
-  ],
+  "source_files": "HTCommonUtility/HTCommonUtility/*.{h,m}",
   "requires_arc": true,
   "public_header_files": "HTCommonUtility/HTCommonUtility/*.h",
   "dependencies": {
     "CocoaLumberjack": [
-      "2.0.1"
+
     ]
   }
 }
